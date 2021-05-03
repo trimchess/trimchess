@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @trimchess
-- 👀 I’m interested in the Raspberry (Pi and Pico)- and Arduino-World.
+- 👀 I’m interested in the Raspberry (Pi and Pico)- and the Arduino-World.
 - 👀 My focus is on C/C++ (Pico C-SDK), Python/Micropython/Circuitpython, Java and Node.js
-- 🌱 Currently I learn deeply the Python/Micropython uasyncio module.
-- 🌱 As a retired electronic- and SW-Engineer, I support companies with testing and developing scripts for small and intermediate tasks.
+- 🌱 Currently I am learning deeply the Python/Micropython asyncio module.
+- 🌱 As a retired Electronic- and SW-Engineer, I support companies with testing and developing scripts for small and intermediate tasks.
 - 👀 I am also interested in playing chess, photography and hiking.
 - 📫 Contact @trimchess: pycoder.maker@gmail.com.
 <!---
