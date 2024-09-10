@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @trimchess.
 - 👀 I’m interested in the Raspberry (Pi and Pico)- and the Arduino-World.
 - 👀 My focus is on C/C++ (on Pico: Pico C-SDK), Python/Micropython/Circuitpython, Java and Node.js.
-- 🌱 As a retired Electronic- and SW-Engineer, I support companies with testing and developing scripts for small and intermediate tasks.
 - 👀 I am also interested in playing chess, photography and small hikes.
 - 📫 Contact @trimchess: coder.maker@coderandmaker.net.
 <!---
